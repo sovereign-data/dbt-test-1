@@ -1,0 +1,26 @@
+version: 2
+
+seeds:
+  - name: customers
+    description: Raw customer data (2000 rows)
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+
+  - name: products
+    description: Raw product catalog (500 rows)
+    columns:
+      - name: product_id
+        tests:
+          - unique
+          - not_null
+
+  - name: orders
+    description: Raw order transactions (10000 rows)
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null

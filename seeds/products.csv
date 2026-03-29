@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,unit_price,cost_price,weight_kg,is_available
+1,EpsilonFit T-Shirt Ultra,Clothing,EpsilonFit,46.07,16.47,0.68,true
+2,KappaCore Speaker Lite,Electronics,KappaCore,65.73,23.45,6.62,true
+3,ZetaCraft Speaker Pro,Electronics,ZetaCraft,456.8,175.04,2.61,false
+4,BetaTech Speaker Plus,Electronics,BetaTech,109.1,51.05,22.25,true
+5,AlphaGear Cabinet Pro,Furniture,AlphaGear,452.3,255.04,15.82,true
+6,ThetaPro Dress Ultra,Clothing,ThetaPro,497.48,268.64,0.22,true
+7,KappaCore Monitor Lite,Electronics,KappaCore,19.63,6.07,12.84,true
+8,DeltaWear Jeans Lite,Clothing,DeltaWear,19.6,6.97,2.18,true
+9,DeltaWear Scarf Max,Clothing,DeltaWear,476.85,209.54,13.83,false
+10,IotaLux Honey Lite,Food,IotaLux,473.44,316.7,6.33,true
+11,KappaCore Tea Lite,Food,KappaCore,397.61,212.73,4.22,false
+12,EtaStyle Cereal Pro,Food,EtaStyle,300.18,122.67,8.04,false
+13,KappaCore Pasta Plus,Food,KappaCore,179.69,118.44,20.5,true
+14,EpsilonFit Webcam Ultra,Electronics,EpsilonFit,295.5,123.34,20.68,true
+15,BetaTech Coffee Max,Food,BetaTech,94.05,40.35,19.79,true
+16,ZetaCraft Monitor Max,Electronics,ZetaCraft,189.12,115.7,3.15,true
+17,ThetaPro Sweater Pro,Clothing,ThetaPro,285.9,122.54,5.89,false
+18,DeltaWear Socks Ultra,Clothing,DeltaWear,265.99,90.75,7.02,true
+19,EtaStyle Bike Light Plus,Sports,EtaStyle,162.3,69.47,5.01,false
+20,EtaStyle Keyboard Ultra,Electronics,EtaStyle,64.03,30.81,15.08,false
+21,AlphaGear Stool Pro,Furniture,AlphaGear,146.09,81.44,21.42,false
+22,EtaStyle Jacket Max,Clothing,EtaStyle,23.32,11.97,13.24,true
+23,BetaTech Speaker Max,Electronics,BetaTech,415.78,193.77,7.59,true
+24,IotaLux Tea Max,Food,IotaLux,388.43,193.25,1.27,false
+25,ZetaCraft Tea Pro,Food,ZetaCraft,469.16,160.03,5.68,true
+26,EtaStyle Mouse Max,Electronics,EtaStyle,117.04,39.23,18.13,true
+27,AlphaGear Keyboard Max,Electronics,AlphaGear,59.85,40.63,1.97,false
+28,GammaHome Jacket Lite,Clothing,GammaHome,293.81,102.23,8.05,false
+29,IotaLux Tea Max,Food,IotaLux,266.16,141.37,16.57,true
+30,BetaTech Pasta Ultra,Food,BetaTech,135.59,56.74,2.16,true
+31,BetaTech Chair Lite,Furniture,BetaTech,486.02,157.52,0.43,false
+32,ThetaPro Pasta Ultra,Food,ThetaPro,56.74,21.76,14.8,true
+33,GammaHome Scarf Max,Clothing,GammaHome,424.66,145.35,3.34,false
+34,IotaLux Bread Plus,Food,IotaLux,105.5,48.54,1.81,true
+35,BetaTech Socks Lite,Clothing,BetaTech,77.91,50.68,18.65,true
+36,EpsilonFit Chocolate Max,Food,EpsilonFit,19.15,10.82,11.37,true
+37,ZetaCraft Yoga Mat Ultra,Sports,ZetaCraft,218.58,78.74,12.6,true
+38,EpsilonFit Speaker Plus,Electronics,EpsilonFit,188.04,60.11,9.62,true
+39,EtaStyle Sweater Ultra,Clothing,EtaStyle,92.44,37.93,15.23,false
+40,DeltaWear Laptop Pro,Electronics,DeltaWear,479.69,186.04,1.42,true
+41,IotaLux Chair Plus,Furniture,IotaLux,55.01,21.49,15.54,false
+42,DeltaWear Tea Lite,Food,DeltaWear,368.29,240.06,6.78,true
+43,EpsilonFit Sofa Lite,Furniture,EpsilonFit,354.4,147.14,0.18,false
+44,GammaHome Sweater Plus,Clothing,GammaHome,160.98,52.77,4.76,true
+45,EtaStyle Speaker Pro,Electronics,EtaStyle,170.36,63.2,6.67,true
+46,ZetaCraft Charger Lite,Electronics,ZetaCraft,484.92,258.59,12.26,false
+47,AlphaGear Laptop Ultra,Electronics,AlphaGear,285.8,198.96,20.9,true
+48,BetaTech Chair Max,Furniture,BetaTech,155.78,92.61,11.37,true
+49,ZetaCraft Rice Max,Food,ZetaCraft,232.08,146.47,7.6,false
+50,IotaLux Keyboard Lite,Electronics,IotaLux,365.47,112.67,24.47,true
+51,AlphaGear Scarf Max,Clothing,AlphaGear,125.96,75.12,24.33,true
+52,EtaStyle Monitor Ultra,Electronics,EtaStyle,321.17,220.38,21.94,false
+53,EpsilonFit Dumbbell Ultra,Sports,EpsilonFit,455.61,200.26,8.35,false
+54,DeltaWear Shorts Ultra,Clothing,DeltaWear,25.34,12.87,8.65,true
+55,KappaCore Cereal Pro,Food,KappaCore,484.24,298.75,7.28,false
+56,GammaHome Rug Lite,Furniture,GammaHome,263.98,109.79,14.0,true
+57,BetaTech Rice Max,Food,BetaTech,400.89,122.77,1.12,true
+58,EpsilonFit Speaker Pro,Electronics,EpsilonFit,7.52,3.32,20.87,true
+59,EpsilonFit Sofa Ultra,Furniture,EpsilonFit,393.71,197.17,23.97,true
+60,GammaHome Keyboard Pro,Electronics,GammaHome,497.98,188.58,14.67,true
+61,ThetaPro Desk Plus,Furniture,ThetaPro,466.8,186.48,16.99,false
+62,EpsilonFit Tea Plus,Food,EpsilonFit,460.5,248.12,4.42,true
+63,DeltaWear Dumbbell Max,Sports,DeltaWear,128.76,60.07,5.07,true
+64,ThetaPro Socks Plus,Clothing,ThetaPro,275.19,123.94,21.91,true
+65,ThetaPro Mirror Max,Furniture,ThetaPro,348.6,174.83,17.16,false
+66,ThetaPro Coat Ultra,Clothing,ThetaPro,213.15,98.92,0.79,true
+67,GammaHome Tea Ultra,Food,GammaHome,309.53,130.3,6.14,true
+68,IotaLux Stool Plus,Furniture,IotaLux,450.46,293.3,1.43,true
+69,ThetaPro Coffee Pro,Food,ThetaPro,404.7,263.04,11.56,true
+70,BetaTech Keyboard Plus,Electronics,BetaTech,170.07,57.65,7.34,true
+71,KappaCore Tablet Lite,Electronics,KappaCore,338.83,201.86,1.42,true
+72,GammaHome Helmet Max,Sports,GammaHome,115.65,65.95,21.32,true
+73,KappaCore Speaker Ultra,Electronics,KappaCore,345.45,119.49,0.1,true
+74,DeltaWear Yoga Mat Plus,Sports,DeltaWear,106.13,51.95,20.83,false
+75,EpsilonFit Tablet Ultra,Electronics,EpsilonFit,205.26,142.26,20.52,true
+76,KappaCore Helmet Lite,Sports,KappaCore,65.98,23.65,0.64,true
+77,IotaLux Mirror Pro,Furniture,IotaLux,104.17,51.27,7.31,false
+78,EtaStyle Shorts Plus,Clothing,EtaStyle,195.98,121.5,11.65,true
+79,ThetaPro Keyboard Pro,Electronics,ThetaPro,64.46,29.38,14.56,false
+80,GammaHome Mouse Lite,Electronics,GammaHome,236.61,139.42,6.99,true
+81,DeltaWear Gloves Pro,Sports,DeltaWear,177.67,103.49,9.83,true
+82,KappaCore Sofa Max,Furniture,KappaCore,172.95,101.36,19.69,true
+83,ThetaPro Tea Ultra,Food,ThetaPro,191.38,93.53,16.51,true
+84,KappaCore Sofa Plus,Furniture,KappaCore,477.82,209.88,15.48,true
+85,GammaHome Laptop Plus,Electronics,GammaHome,119.69,67.76,12.54,true
+86,BetaTech Table Plus,Furniture,BetaTech,450.4,166.47,22.32,true
+87,EpsilonFit Charger Max,Electronics,EpsilonFit,61.66,39.38,1.91,true
+88,BetaTech Sofa Ultra,Furniture,BetaTech,350.87,158.26,24.72,true
+89,ThetaPro Cabinet Lite,Furniture,ThetaPro,221.57,91.83,5.11,false
+90,BetaTech Jump Rope Lite,Sports,BetaTech,293.14,161.71,16.75,true
+91,ZetaCraft Desk Max,Furniture,ZetaCraft,388.32,204.77,21.63,true
+92,DeltaWear Helmet Max,Sports,DeltaWear,417.04,220.26,11.9,true
+93,GammaHome Gloves Pro,Sports,GammaHome,401.79,191.07,15.67,true
+94,EpsilonFit Mirror Ultra,Furniture,EpsilonFit,54.95,27.45,1.38,true
+95,EpsilonFit Monitor Pro,Electronics,EpsilonFit,461.53,184.87,17.61,true
+96,IotaLux Jeans Ultra,Clothing,IotaLux,289.8,185.84,23.3,true
+97,AlphaGear Bread Max,Food,AlphaGear,275.24,180.76,14.61,true
+98,EtaStyle Mouse Lite,Electronics,EtaStyle,134.14,58.19,19.14,true
+99,AlphaGear Backpack Ultra,Sports,AlphaGear,121.63,40.04,23.71,true
+100,EtaStyle Jeans Ultra,Clothing,EtaStyle,301.08,164.08,2.11,false
+101,AlphaGear Cabinet Max,Furniture,AlphaGear,56.51,28.18,5.71,false
+102,DeltaWear Rice Lite,Food,DeltaWear,15.61,5.03,19.36,false
+103,ThetaPro Webcam Plus,Electronics,ThetaPro,30.81,18.68,17.42,false
+104,BetaTech Dumbbell Max,Sports,BetaTech,221.79,146.13,24.57,true
+105,EtaStyle Sofa Pro,Furniture,EtaStyle,459.44,181.6,2.39,true
+106,KappaCore Juice Lite,Food,KappaCore,27.66,17.17,21.84,true
+107,GammaHome Laptop Ultra,Electronics,GammaHome,222.09,91.73,7.92,true
+108,KappaCore Jacket Pro,Clothing,KappaCore,201.92,113.69,16.45,true
+109,ThetaPro Jump Rope Lite,Sports,ThetaPro,354.1,221.44,22.45,false
+110,IotaLux Dress Max,Clothing,IotaLux,149.88,84.15,13.22,true
+111,BetaTech Gloves Ultra,Sports,BetaTech,31.73,20.95,17.67,false
+112,DeltaWear Jeans Max,Clothing,DeltaWear,456.46,290.57,13.07,true
+113,GammaHome Mouse Plus,Electronics,GammaHome,22.75,8.96,11.06,true
+114,AlphaGear Speaker Pro,Electronics,AlphaGear,138.8,74.3,7.58,true
+115,EtaStyle Socks Pro,Clothing,EtaStyle,250.2,161.41,9.68,true
+116,GammaHome Lamp Pro,Furniture,GammaHome,331.66,170.14,16.54,true
+117,ZetaCraft Charger Ultra,Electronics,ZetaCraft,461.74,306.12,20.28,true
+118,KappaCore Mouse Pro,Electronics,KappaCore,219.87,103.56,18.26,true
+119,EpsilonFit Bike Light Ultra,Sports,EpsilonFit,429.96,290.3,11.64,true
+120,ThetaPro Lamp Pro,Furniture,ThetaPro,374.09,250.59,3.38,true
+121,DeltaWear Jeans Pro,Clothing,DeltaWear,386.81,161.81,14.32,true
+122,EpsilonFit Shorts Pro,Clothing,EpsilonFit,392.3,244.84,15.24,true
+123,EpsilonFit Backpack Pro,Sports,EpsilonFit,424.56,202.74,0.53,false
+124,ThetaPro Mouse Ultra,Electronics,ThetaPro,320.68,167.6,10.27,true
+125,IotaLux Socks Max,Clothing,IotaLux,160.44,52.24,4.58,true
+126,DeltaWear Chocolate Pro,Food,DeltaWear,317.02,113.73,15.49,true
+127,GammaHome Laptop Pro,Electronics,GammaHome,343.8,221.49,14.54,true
+128,EpsilonFit Keyboard Ultra,Electronics,EpsilonFit,12.98,8.28,21.25,true
+129,ZetaCraft Jump Rope Pro,Sports,ZetaCraft,59.04,29.68,2.92,true
+130,KappaCore Sofa Plus,Furniture,KappaCore,188.82,118.78,10.46,true
+131,ZetaCraft Desk Max,Furniture,ZetaCraft,305.45,135.65,24.38,false
+132,AlphaGear Socks Ultra,Clothing,AlphaGear,84.35,26.81,23.26,true
+133,DeltaWear Charger Ultra,Electronics,DeltaWear,404.98,204.24,19.54,true
+134,KappaCore Lamp Pro,Furniture,KappaCore,21.14,12.48,9.59,true
+135,IotaLux Stool Ultra,Furniture,IotaLux,498.92,275.47,18.38,true
+136,KappaCore Running Shoes Max,Sports,KappaCore,238.8,121.74,11.08,true
+137,DeltaWear Water Bottle Lite,Sports,DeltaWear,167.7,103.91,24.44,false
+138,DeltaWear Jeans Pro,Clothing,DeltaWear,225.28,153.88,10.31,true
+139,BetaTech Gloves Plus,Sports,BetaTech,457.74,256.94,15.17,false
+140,GammaHome Stool Ultra,Furniture,GammaHome,463.23,184.36,22.74,true
+141,EpsilonFit Water Bottle Ultra,Sports,EpsilonFit,174.08,60.44,10.27,true
+142,DeltaWear Helmet Pro,Sports,DeltaWear,450.44,293.04,0.49,false
+143,ThetaPro Hat Plus,Clothing,ThetaPro,372.71,130.66,0.95,true
+144,GammaHome Chair Plus,Furniture,GammaHome,259.87,132.98,9.76,true
+145,IotaLux Lamp Max,Furniture,IotaLux,124.51,51.97,8.49,true
+146,ZetaCraft Tablet Plus,Electronics,ZetaCraft,475.21,315.67,15.81,true
+147,GammaHome Chocolate Ultra,Food,GammaHome,363.24,194.63,20.52,true
+148,KappaCore Desk Max,Furniture,KappaCore,298.56,170.05,11.39,false
+149,KappaCore Mirror Plus,Furniture,KappaCore,143.25,87.27,5.88,true
+150,IotaLux Charger Plus,Electronics,IotaLux,449.16,238.92,21.12,true
+151,ZetaCraft Coat Lite,Clothing,ZetaCraft,379.86,258.84,1.14,false
+152,KappaCore Water Bottle Lite,Sports,KappaCore,440.39,187.49,8.75,true
+153,ThetaPro Shorts Max,Clothing,ThetaPro,222.26,145.39,7.28,true
+154,GammaHome Cabinet Lite,Furniture,GammaHome,52.51,27.35,12.77,true
+155,IotaLux Running Shoes Pro,Sports,IotaLux,271.27,102.55,12.26,true
+156,KappaCore Cabinet Plus,Furniture,KappaCore,216.12,103.29,3.24,true
+157,ThetaPro Tablet Lite,Electronics,ThetaPro,445.0,221.3,2.26,true
+158,BetaTech Mouse Lite,Electronics,BetaTech,373.42,145.25,1.95,true
+159,IotaLux Scarf Pro,Clothing,IotaLux,337.68,111.31,17.23,false
+160,ZetaCraft Webcam Pro,Electronics,ZetaCraft,99.25,51.93,20.96,true
+161,KappaCore Bookshelf Max,Furniture,KappaCore,191.22,129.51,16.87,false
+162,GammaHome Rug Pro,Furniture,GammaHome,368.11,152.04,5.04,true
+163,BetaTech Headphones Pro,Electronics,BetaTech,247.89,134.97,17.78,false
+164,EtaStyle Socks Ultra,Clothing,EtaStyle,317.36,125.0,8.78,true
+165,EpsilonFit Sweater Ultra,Clothing,EpsilonFit,335.65,166.51,15.79,true
+166,EpsilonFit Helmet Max,Sports,EpsilonFit,52.78,18.21,22.03,false
+167,DeltaWear Olive Oil Max,Food,DeltaWear,332.9,115.29,11.67,true
+168,GammaHome Coat Plus,Clothing,GammaHome,387.97,191.46,20.14,false
+169,EpsilonFit Desk Plus,Furniture,EpsilonFit,137.62,53.13,21.29,true
+170,EpsilonFit Backpack Plus,Sports,EpsilonFit,339.12,157.52,20.24,false
+171,EpsilonFit T-Shirt Pro,Clothing,EpsilonFit,245.33,95.08,15.94,true
+172,DeltaWear Honey Pro,Food,DeltaWear,288.39,105.73,5.23,true
+173,IotaLux Stool Pro,Furniture,IotaLux,14.86,8.75,20.08,true
+174,BetaTech Hat Lite,Clothing,BetaTech,329.19,167.05,9.12,true
+175,DeltaWear Bike Light Plus,Sports,DeltaWear,148.64,54.19,9.41,true
+176,AlphaGear Jump Rope Pro,Sports,AlphaGear,22.86,7.04,23.51,false
+177,GammaHome Coffee Lite,Food,GammaHome,145.13,44.95,15.83,true
+178,EtaStyle Jeans Max,Clothing,EtaStyle,329.36,116.09,18.54,true
+179,IotaLux Tablet Pro,Electronics,IotaLux,362.45,219.27,10.44,true
+180,EtaStyle Charger Max,Electronics,EtaStyle,101.17,54.86,7.87,false
+181,EpsilonFit Running Shoes Ultra,Sports,EpsilonFit,140.65,53.6,6.68,false
+182,EtaStyle Rice Plus,Food,EtaStyle,51.07,35.07,14.07,true
+183,DeltaWear Gloves Max,Sports,DeltaWear,194.29,135.47,18.22,true
+184,KappaCore Pasta Max,Food,KappaCore,487.72,223.83,5.88,false
+185,EpsilonFit Yoga Mat Pro,Sports,EpsilonFit,169.56,105.78,24.4,true
+186,KappaCore Rug Plus,Furniture,KappaCore,128.73,45.9,15.45,true
+187,EpsilonFit Speaker Pro,Electronics,EpsilonFit,208.87,124.53,20.87,true
+188,EtaStyle Towel Ultra,Sports,EtaStyle,436.36,177.71,5.31,false
+189,ZetaCraft Helmet Plus,Sports,ZetaCraft,479.94,189.24,11.59,true
+190,BetaTech Headphones Pro,Electronics,BetaTech,190.96,115.1,4.14,true
+191,BetaTech Rug Ultra,Furniture,BetaTech,24.34,11.43,4.35,false
+192,EtaStyle Mirror Max,Furniture,EtaStyle,202.71,84.87,10.94,true
+193,KappaCore Backpack Max,Sports,KappaCore,445.32,234.03,4.23,true
+194,IotaLux Backpack Max,Sports,IotaLux,304.24,148.73,5.34,true
+195,ThetaPro Mirror Pro,Furniture,ThetaPro,9.86,4.6,3.84,true
+196,DeltaWear Sweater Pro,Clothing,DeltaWear,348.55,179.54,8.34,false
+197,BetaTech Dumbbell Pro,Sports,BetaTech,178.47,93.46,5.73,true
+198,EtaStyle Shorts Plus,Clothing,EtaStyle,294.31,124.29,15.65,true
+199,DeltaWear Gloves Max,Sports,DeltaWear,43.35,15.65,18.29,true
+200,BetaTech Socks Plus,Clothing,BetaTech,67.72,34.46,16.16,true
+201,KappaCore Towel Plus,Sports,KappaCore,142.23,88.6,21.8,true
+202,DeltaWear Desk Lite,Furniture,DeltaWear,494.6,166.45,20.1,true
+203,AlphaGear Rug Ultra,Furniture,AlphaGear,165.05,108.67,1.4,false
+204,ZetaCraft Cereal Plus,Food,ZetaCraft,154.77,93.48,6.1,false
+205,ZetaCraft Cereal Ultra,Food,ZetaCraft,159.32,81.06,13.31,true
+206,GammaHome Cabinet Max,Furniture,GammaHome,420.74,220.55,12.3,true
+207,ZetaCraft Bike Light Max,Sports,ZetaCraft,93.12,60.2,21.4,false
+208,IotaLux Stool Max,Furniture,IotaLux,438.77,293.2,4.86,true
+209,ThetaPro Monitor Max,Electronics,ThetaPro,183.69,69.43,14.7,true
+210,IotaLux Shorts Max,Clothing,IotaLux,461.17,250.28,0.93,false
+211,EpsilonFit Coffee Pro,Food,EpsilonFit,140.72,45.44,14.35,false
+212,ThetaPro Helmet Ultra,Sports,ThetaPro,91.02,54.61,16.22,true
+213,AlphaGear Mouse Lite,Electronics,AlphaGear,308.4,180.51,17.67,true
+214,BetaTech Headphones Pro,Electronics,BetaTech,32.74,18.17,1.65,true
+215,AlphaGear Stool Lite,Furniture,AlphaGear,169.67,96.51,22.5,true
+216,EtaStyle Running Shoes Lite,Sports,EtaStyle,211.11,119.72,1.63,true
+217,GammaHome Jeans Ultra,Clothing,GammaHome,224.48,92.08,5.05,false
+218,EpsilonFit Desk Ultra,Furniture,EpsilonFit,140.51,61.86,8.6,true
+219,BetaTech Helmet Lite,Sports,BetaTech,62.55,21.03,18.27,true
+220,GammaHome Running Shoes Pro,Sports,GammaHome,395.42,153.03,9.43,true
+221,GammaHome Sweater Max,Clothing,GammaHome,158.69,71.68,7.25,true
+222,EtaStyle Backpack Lite,Sports,EtaStyle,116.85,43.85,22.1,true
+223,EpsilonFit Scarf Ultra,Clothing,EpsilonFit,50.74,22.43,9.15,false
+224,KappaCore Desk Plus,Furniture,KappaCore,195.91,100.93,5.35,true
+225,ZetaCraft Sweater Max,Clothing,ZetaCraft,351.33,176.19,20.76,true
+226,EpsilonFit Jump Rope Ultra,Sports,EpsilonFit,113.04,45.71,23.06,true
+227,ThetaPro Chocolate Ultra,Food,ThetaPro,295.48,132.64,9.51,true
+228,ZetaCraft Jeans Max,Clothing,ZetaCraft,435.32,131.97,10.59,true
+229,ZetaCraft Smartphone Pro,Electronics,ZetaCraft,156.61,76.23,4.74,false
+230,KappaCore Helmet Lite,Sports,KappaCore,290.1,137.5,10.04,true
+231,ZetaCraft Socks Lite,Clothing,ZetaCraft,243.87,112.29,1.1,true
+232,EpsilonFit Honey Ultra,Food,EpsilonFit,477.22,219.66,0.81,true
+233,IotaLux Socks Lite,Clothing,IotaLux,103.24,71.13,18.82,true
+234,EpsilonFit Tablet Plus,Electronics,EpsilonFit,397.47,141.73,8.72,true
+235,GammaHome Coffee Lite,Food,GammaHome,104.2,38.43,7.76,true
+236,BetaTech Lamp Max,Furniture,BetaTech,363.45,131.44,13.93,true
+237,ZetaCraft Chocolate Lite,Food,ZetaCraft,54.46,28.32,9.91,false
+238,DeltaWear Cereal Lite,Food,DeltaWear,382.71,129.48,3.3,false
+239,EtaStyle Shorts Ultra,Clothing,EtaStyle,300.48,154.34,8.74,true
+240,GammaHome Stool Pro,Furniture,GammaHome,385.08,172.38,8.56,false
+241,GammaHome Monitor Pro,Electronics,GammaHome,252.48,80.21,7.62,true
+242,EtaStyle Chocolate Plus,Food,EtaStyle,79.62,33.79,16.91,true
+243,GammaHome Coat Plus,Clothing,GammaHome,85.95,49.24,20.87,true
+244,EtaStyle Jeans Ultra,Clothing,EtaStyle,402.76,122.8,8.04,false
+245,ThetaPro Coffee Pro,Food,ThetaPro,328.64,186.69,10.62,true
+246,BetaTech Rice Max,Food,BetaTech,303.8,188.65,11.31,false
+247,ZetaCraft Hat Plus,Clothing,ZetaCraft,60.28,22.4,10.66,true
+248,ZetaCraft Desk Ultra,Furniture,ZetaCraft,474.36,276.56,6.52,false
+249,ThetaPro Coffee Max,Food,ThetaPro,144.45,50.36,12.29,true
+250,EpsilonFit Backpack Pro,Sports,EpsilonFit,215.72,122.96,19.19,true
+251,ZetaCraft Cabinet Pro,Furniture,ZetaCraft,211.44,101.22,7.51,true
+252,IotaLux T-Shirt Pro,Clothing,IotaLux,370.65,148.06,2.19,true
+253,EtaStyle Rug Ultra,Furniture,EtaStyle,446.89,195.81,11.5,true
+254,ThetaPro Towel Ultra,Sports,ThetaPro,25.12,10.82,1.05,true
+255,BetaTech Juice Plus,Food,BetaTech,172.2,95.52,7.62,true
+256,BetaTech Cabinet Lite,Furniture,BetaTech,419.24,198.46,3.0,true
+257,IotaLux Socks Pro,Clothing,IotaLux,271.88,167.88,17.39,true
+258,DeltaWear Helmet Lite,Sports,DeltaWear,381.56,181.16,18.7,true
+259,KappaCore Running Shoes Pro,Sports,KappaCore,202.34,75.37,7.19,false
+260,EtaStyle Desk Max,Furniture,EtaStyle,330.32,135.4,11.61,true
+261,AlphaGear Table Ultra,Furniture,AlphaGear,355.96,138.26,15.32,false
+262,KappaCore Bike Light Pro,Sports,KappaCore,167.73,76.42,23.25,true
+263,ZetaCraft Dress Plus,Clothing,ZetaCraft,412.2,148.69,21.37,true
+264,EtaStyle Dumbbell Pro,Sports,EtaStyle,131.57,41.17,21.32,false
+265,BetaTech Backpack Max,Sports,BetaTech,107.74,74.77,9.29,true
+266,AlphaGear Cereal Ultra,Food,AlphaGear,82.17,43.88,15.64,false
+267,EpsilonFit Coffee Ultra,Food,EpsilonFit,280.44,139.18,5.94,true
+268,BetaTech Bread Ultra,Food,BetaTech,53.01,20.53,24.8,true
+269,EtaStyle Bookshelf Ultra,Furniture,EtaStyle,277.28,122.23,5.52,true
+270,BetaTech Dress Max,Clothing,BetaTech,333.8,191.85,15.86,false
+271,ThetaPro Lamp Lite,Furniture,ThetaPro,379.63,157.36,23.12,true
+272,AlphaGear Rice Lite,Food,AlphaGear,268.67,116.5,11.65,true
+273,EtaStyle Bread Ultra,Food,EtaStyle,487.25,226.14,15.95,true
+274,KappaCore Stool Plus,Furniture,KappaCore,254.16,84.43,14.31,true
+275,DeltaWear Socks Max,Clothing,DeltaWear,87.4,48.09,17.14,true
+276,IotaLux Bike Light Plus,Sports,IotaLux,258.11,97.36,22.84,true
+277,ThetaPro Bookshelf Max,Furniture,ThetaPro,468.88,313.47,8.14,true
+278,KappaCore Monitor Lite,Electronics,KappaCore,233.28,92.85,15.12,true
+279,BetaTech Juice Lite,Food,BetaTech,402.83,255.86,21.81,true
+280,AlphaGear Tea Ultra,Food,AlphaGear,375.56,215.12,10.22,false
+281,EtaStyle Tea Ultra,Food,EtaStyle,479.0,312.95,13.48,true
+282,AlphaGear Cereal Pro,Food,AlphaGear,150.02,68.91,20.58,true
+283,ThetaPro Juice Max,Food,ThetaPro,217.15,75.92,3.73,true
+284,EtaStyle Sofa Plus,Furniture,EtaStyle,329.99,117.73,6.15,true
+285,ZetaCraft Jeans Plus,Clothing,ZetaCraft,322.81,106.41,22.49,true
+286,EpsilonFit Dress Max,Clothing,EpsilonFit,346.15,149.63,11.31,true
+287,GammaHome Running Shoes Max,Sports,GammaHome,78.27,32.51,5.6,true
+288,GammaHome Shorts Max,Clothing,GammaHome,285.98,120.65,17.86,true
+289,KappaCore Bookshelf Pro,Furniture,KappaCore,149.7,67.92,15.96,true
+290,GammaHome Water Bottle Ultra,Sports,GammaHome,294.2,118.79,18.06,false
+291,GammaHome Bread Ultra,Food,GammaHome,486.34,271.15,14.72,true
+292,EtaStyle Backpack Ultra,Sports,EtaStyle,433.38,214.13,4.31,false
+293,EtaStyle Rug Max,Furniture,EtaStyle,12.05,8.18,8.62,true
+294,EpsilonFit Bookshelf Lite,Furniture,EpsilonFit,306.28,181.17,3.08,true
+295,KappaCore Cereal Ultra,Food,KappaCore,456.79,302.63,21.02,true
+296,AlphaGear Sofa Pro,Furniture,AlphaGear,202.25,68.67,8.3,true
+297,IotaLux Gloves Ultra,Sports,IotaLux,436.94,300.69,1.49,true
+298,GammaHome Cabinet Plus,Furniture,GammaHome,346.4,194.1,6.2,true
+299,EpsilonFit Charger Pro,Electronics,EpsilonFit,278.23,93.64,4.83,true
+300,AlphaGear Water Bottle Plus,Sports,AlphaGear,107.83,42.87,19.07,false
+301,AlphaGear Webcam Pro,Electronics,AlphaGear,162.83,90.14,4.99,false
+302,DeltaWear Speaker Max,Electronics,DeltaWear,54.44,29.17,15.0,true
+303,BetaTech Bike Light Ultra,Sports,BetaTech,361.39,172.4,16.1,false
+304,EtaStyle Keyboard Ultra,Electronics,EtaStyle,302.67,150.44,4.5,false
+305,EpsilonFit Water Bottle Ultra,Sports,EpsilonFit,135.78,69.64,8.59,true
+306,GammaHome Tea Plus,Food,GammaHome,246.35,105.36,24.36,false
+307,BetaTech Bookshelf Plus,Furniture,BetaTech,381.42,217.1,2.45,true
+308,DeltaWear Dumbbell Ultra,Sports,DeltaWear,390.5,236.31,5.41,true
+309,ThetaPro Hat Ultra,Clothing,ThetaPro,55.94,23.5,15.28,true
+310,DeltaWear Jacket Ultra,Clothing,DeltaWear,384.37,236.13,21.32,true
+311,ThetaPro Hat Max,Clothing,ThetaPro,328.48,202.18,19.52,true
+312,EpsilonFit Scarf Max,Clothing,EpsilonFit,188.54,79.66,18.2,false
+313,KappaCore Coat Plus,Clothing,KappaCore,199.8,93.28,19.08,true
+314,GammaHome Olive Oil Lite,Food,GammaHome,487.62,295.9,0.59,true
+315,ZetaCraft Shorts Ultra,Clothing,ZetaCraft,16.72,7.88,9.62,true
+316,IotaLux Stool Lite,Furniture,IotaLux,222.85,91.28,1.95,true
+317,ThetaPro Bread Plus,Food,ThetaPro,476.26,323.23,19.55,false
+318,KappaCore Cabinet Max,Furniture,KappaCore,295.13,95.54,1.5,true
+319,ThetaPro Backpack Pro,Sports,ThetaPro,462.19,159.18,3.44,true
+320,GammaHome Chocolate Plus,Food,GammaHome,296.96,157.28,14.09,true
+321,IotaLux Socks Max,Clothing,IotaLux,382.58,154.67,13.32,true
+322,ZetaCraft Chair Lite,Furniture,ZetaCraft,478.81,212.83,19.34,true
+323,DeltaWear Scarf Max,Clothing,DeltaWear,233.1,100.98,16.97,true
+324,GammaHome Running Shoes Plus,Sports,GammaHome,64.0,29.72,9.97,true
+325,IotaLux Running Shoes Ultra,Sports,IotaLux,189.87,99.93,24.89,true
+326,EpsilonFit Helmet Ultra,Sports,EpsilonFit,289.53,160.33,18.39,true
+327,IotaLux Yoga Mat Ultra,Sports,IotaLux,83.32,42.11,21.3,false
+328,BetaTech Jump Rope Plus,Sports,BetaTech,384.72,181.73,6.99,true
+329,GammaHome Jeans Plus,Clothing,GammaHome,325.68,141.97,13.24,true
+330,EpsilonFit Bread Lite,Food,EpsilonFit,8.15,5.15,0.57,true
+331,EpsilonFit Chocolate Ultra,Food,EpsilonFit,428.51,228.72,19.22,false
+332,ZetaCraft Stool Lite,Furniture,ZetaCraft,447.16,262.02,14.46,true
+333,GammaHome Cabinet Pro,Furniture,GammaHome,54.94,28.2,23.62,true
+334,BetaTech Backpack Lite,Sports,BetaTech,167.09,71.2,5.83,true
+335,EtaStyle Jacket Max,Clothing,EtaStyle,495.55,194.85,23.0,true
+336,BetaTech Rug Lite,Furniture,BetaTech,417.91,188.08,11.15,false
+337,ThetaPro Speaker Pro,Electronics,ThetaPro,202.59,77.44,9.57,true
+338,KappaCore Mirror Pro,Furniture,KappaCore,363.64,126.79,18.94,false
+339,ZetaCraft Backpack Ultra,Sports,ZetaCraft,210.49,80.86,2.36,true
+340,IotaLux Rice Plus,Food,IotaLux,60.44,29.18,0.28,false
+341,ZetaCraft Mouse Max,Electronics,ZetaCraft,473.14,300.26,10.91,true
+342,ThetaPro Headphones Max,Electronics,ThetaPro,12.85,8.81,18.27,true
+343,GammaHome Table Plus,Furniture,GammaHome,284.47,99.9,3.98,true
+344,DeltaWear Charger Plus,Electronics,DeltaWear,433.84,244.85,9.36,true
+345,GammaHome Chocolate Lite,Food,GammaHome,468.46,321.42,18.57,true
+346,AlphaGear Smartphone Max,Electronics,AlphaGear,251.29,106.15,15.67,true
+347,ZetaCraft Laptop Lite,Electronics,ZetaCraft,19.11,9.33,18.4,false
+348,EtaStyle Webcam Pro,Electronics,EtaStyle,382.44,225.26,4.33,true
+349,BetaTech Sweater Plus,Clothing,BetaTech,212.84,69.5,24.22,false
+350,GammaHome Helmet Plus,Sports,GammaHome,429.17,267.7,0.12,false
+351,ZetaCraft Jacket Pro,Clothing,ZetaCraft,329.91,147.22,15.38,false
+352,DeltaWear Bread Lite,Food,DeltaWear,67.29,34.04,20.16,true
+353,EtaStyle Tablet Max,Electronics,EtaStyle,144.74,79.03,6.32,true
+354,ThetaPro Dress Max,Clothing,ThetaPro,335.84,170.6,14.47,true
+355,ZetaCraft Coat Pro,Clothing,ZetaCraft,332.29,176.69,23.37,false
+356,GammaHome Monitor Lite,Electronics,GammaHome,12.09,6.7,20.9,true
+357,AlphaGear Olive Oil Ultra,Food,AlphaGear,288.18,142.23,8.66,false
+358,ThetaPro Pasta Max,Food,ThetaPro,312.55,162.01,3.03,true
+359,EpsilonFit Jacket Plus,Clothing,EpsilonFit,173.79,112.75,19.32,true
+360,EpsilonFit Hat Ultra,Clothing,EpsilonFit,36.24,16.17,16.09,true
+361,ThetaPro Monitor Lite,Electronics,ThetaPro,415.89,144.78,17.85,true
+362,EtaStyle Scarf Ultra,Clothing,EtaStyle,278.88,188.47,24.16,true
+363,DeltaWear Juice Lite,Food,DeltaWear,75.15,43.0,19.42,true
+364,GammaHome Towel Ultra,Sports,GammaHome,283.63,145.28,1.27,true
+365,IotaLux Jump Rope Ultra,Sports,IotaLux,87.54,31.82,17.04,true
+366,KappaCore Mirror Plus,Furniture,KappaCore,214.89,81.85,1.32,true
+367,EtaStyle Juice Max,Food,EtaStyle,447.4,217.97,3.49,true
+368,IotaLux Keyboard Ultra,Electronics,IotaLux,335.72,128.75,18.36,true
+369,GammaHome Headphones Lite,Electronics,GammaHome,76.18,47.92,19.14,false
+370,EtaStyle Lamp Lite,Furniture,EtaStyle,297.75,118.93,8.83,true
+371,BetaTech Lamp Lite,Furniture,BetaTech,364.36,194.7,16.84,false
+372,ZetaCraft Cabinet Pro,Furniture,ZetaCraft,10.33,3.58,7.85,false
+373,EpsilonFit Rug Lite,Furniture,EpsilonFit,412.01,212.8,15.29,true
+374,AlphaGear Shorts Plus,Clothing,AlphaGear,193.84,127.25,2.91,false
+375,ThetaPro Dumbbell Ultra,Sports,ThetaPro,380.44,148.32,2.67,true
+376,EtaStyle Rug Max,Furniture,EtaStyle,213.73,118.67,21.64,true
+377,ZetaCraft Hat Pro,Clothing,ZetaCraft,212.72,134.97,24.58,true
+378,DeltaWear Speaker Max,Electronics,DeltaWear,294.96,114.61,10.9,true
+379,KappaCore Juice Plus,Food,KappaCore,419.52,188.92,13.02,true
+380,KappaCore Yoga Mat Pro,Sports,KappaCore,419.91,233.92,2.55,true
+381,KappaCore Sofa Plus,Furniture,KappaCore,337.94,223.55,10.6,true
+382,ThetaPro Scarf Plus,Clothing,ThetaPro,288.81,147.03,23.51,true
+383,GammaHome Stool Plus,Furniture,GammaHome,16.95,11.5,2.56,true
+384,ZetaCraft Rice Lite,Food,ZetaCraft,410.09,179.46,24.34,true
+385,ZetaCraft Coffee Lite,Food,ZetaCraft,231.81,161.43,6.65,true
+386,ZetaCraft Gloves Lite,Sports,ZetaCraft,371.65,223.48,19.55,false
+387,ZetaCraft Mouse Lite,Electronics,ZetaCraft,310.12,184.81,20.92,true
+388,BetaTech Jeans Lite,Clothing,BetaTech,321.53,136.7,12.48,false
+389,ThetaPro Cabinet Lite,Furniture,ThetaPro,178.54,111.12,22.4,true
+390,BetaTech T-Shirt Ultra,Clothing,BetaTech,98.95,41.98,12.7,true
+391,GammaHome Gloves Pro,Sports,GammaHome,202.0,116.81,5.05,false
+392,ZetaCraft Jacket Pro,Clothing,ZetaCraft,268.75,123.28,23.04,true
+393,BetaTech Towel Lite,Sports,BetaTech,165.3,64.46,20.67,true
+394,ThetaPro T-Shirt Lite,Clothing,ThetaPro,116.11,67.12,5.55,false
+395,AlphaGear Bookshelf Plus,Furniture,AlphaGear,151.91,104.19,21.45,false
+396,IotaLux Juice Ultra,Food,IotaLux,499.19,188.14,4.73,false
+397,EpsilonFit Bike Light Max,Sports,EpsilonFit,354.84,245.82,20.11,false
+398,DeltaWear Dress Lite,Clothing,DeltaWear,163.48,72.39,23.96,true
+399,KappaCore Mirror Ultra,Furniture,KappaCore,68.74,47.6,19.63,false
+400,BetaTech Backpack Ultra,Sports,BetaTech,404.59,219.14,18.03,true
+401,KappaCore Rice Ultra,Food,KappaCore,419.12,202.89,11.0,false
+402,AlphaGear Smartphone Max,Electronics,AlphaGear,282.18,147.75,1.53,false
+403,ZetaCraft Chair Pro,Furniture,ZetaCraft,37.38,21.96,14.29,false
+404,EtaStyle Chocolate Max,Food,EtaStyle,111.53,53.63,13.51,true
+405,IotaLux Stool Ultra,Furniture,IotaLux,473.4,169.33,13.54,true
+406,AlphaGear Charger Pro,Electronics,AlphaGear,357.5,158.49,3.08,true
+407,GammaHome Bike Light Lite,Sports,GammaHome,367.62,146.87,15.08,true
+408,BetaTech Speaker Plus,Electronics,BetaTech,169.24,57.15,10.15,false
+409,GammaHome Cereal Lite,Food,GammaHome,424.4,158.38,7.85,false
+410,BetaTech Scarf Pro,Clothing,BetaTech,96.36,44.38,5.74,true
+411,IotaLux Tea Ultra,Food,IotaLux,132.6,86.42,1.62,true
+412,GammaHome Jeans Max,Clothing,GammaHome,5.86,4.07,0.41,false
+413,KappaCore T-Shirt Lite,Clothing,KappaCore,283.87,182.74,23.9,false
+414,DeltaWear Mirror Lite,Furniture,DeltaWear,488.01,165.33,17.11,true
+415,ThetaPro Dumbbell Lite,Sports,ThetaPro,354.65,231.19,4.52,false
+416,AlphaGear Charger Pro,Electronics,AlphaGear,467.97,306.66,19.86,true
+417,ZetaCraft Jeans Pro,Clothing,ZetaCraft,343.1,183.92,4.27,false
+418,GammaHome Stool Ultra,Furniture,GammaHome,498.68,333.12,23.45,false
+419,IotaLux Tea Plus,Food,IotaLux,37.4,14.9,3.62,true
+420,ZetaCraft Coffee Ultra,Food,ZetaCraft,34.02,23.57,12.06,true
+421,ZetaCraft Yoga Mat Ultra,Sports,ZetaCraft,456.37,239.68,17.58,false
+422,EpsilonFit Jump Rope Plus,Sports,EpsilonFit,163.56,78.37,5.03,false
+423,BetaTech Honey Plus,Food,BetaTech,247.78,123.02,8.11,false
+424,EpsilonFit Scarf Pro,Clothing,EpsilonFit,386.57,224.04,13.24,true
+425,KappaCore Keyboard Max,Electronics,KappaCore,375.19,198.29,4.42,true
+426,AlphaGear Running Shoes Ultra,Sports,AlphaGear,483.55,219.51,8.86,true
+427,IotaLux Juice Pro,Food,IotaLux,425.36,214.17,17.06,true
+428,GammaHome Speaker Lite,Electronics,GammaHome,446.72,261.32,1.92,false
+429,KappaCore Stool Pro,Furniture,KappaCore,12.72,8.51,5.23,true
+430,ZetaCraft Monitor Max,Electronics,ZetaCraft,492.28,342.05,20.68,false
+431,GammaHome Smartphone Plus,Electronics,GammaHome,301.38,165.37,6.53,true
+432,EtaStyle Cabinet Max,Furniture,EtaStyle,346.69,161.68,10.4,true
+433,KappaCore Rice Plus,Food,KappaCore,10.16,5.86,1.14,true
+434,BetaTech Chair Lite,Furniture,BetaTech,62.06,41.01,12.26,true
+435,EtaStyle Cabinet Max,Furniture,EtaStyle,145.98,60.52,21.4,true
+436,DeltaWear Headphones Lite,Electronics,DeltaWear,475.35,248.09,12.5,true
+437,BetaTech Cereal Pro,Food,BetaTech,60.15,18.96,9.76,true
+438,KappaCore Lamp Pro,Furniture,KappaCore,188.6,112.28,11.11,true
+439,AlphaGear Sofa Max,Furniture,AlphaGear,286.56,194.7,8.6,true
+440,DeltaWear Scarf Max,Clothing,DeltaWear,451.27,145.57,9.56,true
+441,DeltaWear Bookshelf Plus,Furniture,DeltaWear,171.26,100.78,0.73,true
+442,IotaLux Stool Max,Furniture,IotaLux,147.46,53.74,13.72,true
+443,EtaStyle Tablet Max,Electronics,EtaStyle,261.43,80.26,18.04,true
+444,BetaTech Smartphone Pro,Electronics,BetaTech,343.74,103.93,0.19,false
+445,DeltaWear Yoga Mat Pro,Sports,DeltaWear,382.28,120.07,13.69,false
+446,EpsilonFit Bike Light Lite,Sports,EpsilonFit,344.38,156.59,22.77,false
+447,ZetaCraft Water Bottle Lite,Sports,ZetaCraft,490.16,271.88,12.03,false
+448,DeltaWear Backpack Plus,Sports,DeltaWear,76.48,42.43,4.44,true
+449,AlphaGear Sofa Plus,Furniture,AlphaGear,218.71,91.85,1.16,true
+450,ZetaCraft Chocolate Plus,Food,ZetaCraft,108.01,49.93,22.1,false
+451,ThetaPro Honey Ultra,Food,ThetaPro,184.96,79.61,10.03,true
+452,DeltaWear Table Ultra,Furniture,DeltaWear,286.35,194.49,18.26,true
+453,EtaStyle Juice Plus,Food,EtaStyle,190.53,80.55,9.88,true
+454,EpsilonFit Helmet Plus,Sports,EpsilonFit,452.81,308.95,21.77,true
+455,ZetaCraft Table Ultra,Furniture,ZetaCraft,278.09,100.86,9.67,false
+456,AlphaGear Rug Max,Furniture,AlphaGear,348.51,158.36,16.71,true
+457,DeltaWear Bread Lite,Food,DeltaWear,79.59,33.95,6.22,false
+458,KappaCore Socks Pro,Clothing,KappaCore,267.64,147.53,0.98,true
+459,AlphaGear Laptop Pro,Electronics,AlphaGear,460.49,298.3,8.35,true
+460,GammaHome Sweater Ultra,Clothing,GammaHome,479.19,202.71,1.74,true
+461,ThetaPro Helmet Ultra,Sports,ThetaPro,172.62,63.88,7.65,true
+462,EtaStyle Bookshelf Ultra,Furniture,EtaStyle,63.63,42.26,10.3,false
+463,BetaTech Sweater Pro,Clothing,BetaTech,333.62,119.66,11.18,true
+464,EtaStyle Cereal Max,Food,EtaStyle,241.06,146.29,14.7,false
+465,GammaHome Towel Ultra,Sports,GammaHome,226.43,69.73,12.34,true
+466,ZetaCraft Jeans Plus,Clothing,ZetaCraft,39.1,13.84,7.57,true
+467,ZetaCraft Monitor Max,Electronics,ZetaCraft,149.71,92.39,19.69,false
+468,KappaCore Charger Lite,Electronics,KappaCore,211.78,77.86,21.3,true
+469,ThetaPro Running Shoes Max,Sports,ThetaPro,162.69,59.67,16.27,true
+470,ZetaCraft Honey Plus,Food,ZetaCraft,25.03,15.02,19.02,true
+471,AlphaGear Hat Ultra,Clothing,AlphaGear,69.67,48.16,15.64,true
+472,DeltaWear Coat Max,Clothing,DeltaWear,452.74,204.64,1.0,false
+473,IotaLux Dress Max,Clothing,IotaLux,427.55,262.37,10.24,true
+474,IotaLux Shorts Plus,Clothing,IotaLux,100.49,41.47,2.17,true
+475,BetaTech Hat Lite,Clothing,BetaTech,16.39,5.76,19.08,true
+476,BetaTech Sofa Pro,Furniture,BetaTech,81.23,50.41,19.49,true
+477,KappaCore Mouse Plus,Electronics,KappaCore,39.84,21.24,24.14,true
+478,BetaTech Charger Pro,Electronics,BetaTech,32.8,11.66,22.96,true
+479,AlphaGear Tablet Pro,Electronics,AlphaGear,219.32,125.94,5.33,false
+480,DeltaWear Hat Ultra,Clothing,DeltaWear,240.64,91.18,24.7,true
+481,KappaCore Rice Pro,Food,KappaCore,433.18,140.57,4.7,true
+482,EpsilonFit Table Pro,Furniture,EpsilonFit,76.23,39.4,24.32,true
+483,ZetaCraft Bookshelf Ultra,Furniture,ZetaCraft,379.36,148.36,9.93,true
+484,IotaLux Bike Light Max,Sports,IotaLux,322.09,124.75,6.35,true
+485,EpsilonFit Running Shoes Plus,Sports,EpsilonFit,144.32,52.61,1.63,true
+486,EtaStyle Charger Pro,Electronics,EtaStyle,44.58,27.01,17.93,true
+487,ZetaCraft Socks Ultra,Clothing,ZetaCraft,350.55,190.07,23.99,true
+488,ZetaCraft Scarf Plus,Clothing,ZetaCraft,372.39,183.28,12.54,true
+489,DeltaWear Jump Rope Plus,Sports,DeltaWear,295.68,93.75,8.89,false
+490,ThetaPro Coat Plus,Clothing,ThetaPro,435.0,211.3,3.9,false
+491,ZetaCraft Smartphone Max,Electronics,ZetaCraft,193.82,125.61,3.82,true
+492,GammaHome Chocolate Plus,Food,GammaHome,298.5,111.51,2.46,false
+493,ZetaCraft Cabinet Ultra,Furniture,ZetaCraft,102.89,51.33,4.04,true
+494,ThetaPro Table Lite,Furniture,ThetaPro,305.38,152.58,10.93,false
+495,BetaTech Mouse Max,Electronics,BetaTech,38.12,16.37,11.97,true
+496,ThetaPro Mirror Max,Furniture,ThetaPro,402.79,187.92,0.42,true
+497,KappaCore Shorts Max,Clothing,KappaCore,217.35,75.8,3.32,true
+498,ZetaCraft Jacket Max,Clothing,ZetaCraft,284.84,139.4,0.54,false
+499,ZetaCraft Table Plus,Furniture,ZetaCraft,345.7,229.57,22.57,true
+500,KappaCore Backpack Max,Sports,KappaCore,397.94,230.54,22.56,true
