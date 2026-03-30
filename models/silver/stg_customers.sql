@@ -15,10 +15,7 @@ cleaned as (
         upper(trim(country))                as country_code,
         lower(trim(segment))                as segment,
         cast(created_at as date)            as created_at,
-        case
-            when lower(is_active) = 'true' then true
-            else false
-        end                                 as is_active
+        is_active
 
     from source
 

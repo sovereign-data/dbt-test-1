@@ -14,10 +14,7 @@ cleaned as (
         cast(unit_price as decimal(10,2))   as unit_price,
         cast(cost_price as decimal(10,2))   as cost_price,
         cast(weight_kg as decimal(8,2))     as weight_kg,
-        case
-            when lower(is_available) = 'true' then true
-            else false
-        end                                 as is_available,
+        is_available,
         cast(unit_price as decimal(10,2))
             - cast(cost_price as decimal(10,2)) as margin
 
