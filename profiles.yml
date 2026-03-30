@@ -12,3 +12,4 @@ trino:
       database: main_warehouse
       schema: dev
       threads: 4
+      prepared_statements_enabled: false
