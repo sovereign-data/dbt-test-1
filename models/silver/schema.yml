@@ -19,7 +19,8 @@ models:
       - name: segment
         tests:
           - accepted_values:
-              values: ['consumer', 'corporate', 'home_office', 'small_business']
+              arguments:
+                values: ['consumer', 'corporate', 'home_office', 'small_business']
 
   - name: stg_products
     description: Cleaned and typed product catalog from seed
@@ -32,7 +33,8 @@ models:
       - name: category
         tests:
           - accepted_values:
-              values: ['electronics', 'furniture', 'clothing', 'food', 'sports']
+              arguments:
+                values: ['electronics', 'furniture', 'clothing', 'food', 'sports']
       - name: unit_price
         tests:
           - not_null
@@ -49,18 +51,21 @@ models:
         tests:
           - not_null
           - relationships:
-              to: ref('stg_customers')
-              field: customer_id
+              arguments:
+                to: ref('stg_customers')
+                field: customer_id
       - name: product_id
         tests:
           - not_null
           - relationships:
-              to: ref('stg_products')
-              field: product_id
+              arguments:
+                to: ref('stg_products')
+                field: product_id
       - name: order_date
         tests:
           - not_null
       - name: status
         tests:
           - accepted_values:
-              values: ['completed', 'shipped', 'processing', 'cancelled', 'returned']
+              arguments:
+                values: ['completed', 'shipped', 'processing', 'cancelled', 'returned']

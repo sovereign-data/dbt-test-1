@@ -29,7 +29,8 @@ models:
       - name: customer_tier
         tests:
           - accepted_values:
-              values: ['inactive', 'new', 'regular', 'loyal', 'vip']
+              arguments:
+                values: ['inactive', 'new', 'regular', 'loyal', 'vip']
 
   - name: dim_products
     description: Product dimension with sales statistics and sales tier
@@ -42,7 +43,8 @@ models:
       - name: sales_tier
         tests:
           - accepted_values:
-              values: ['no_sales', 'slow_mover', 'moderate', 'popular', 'best_seller']
+              arguments:
+                values: ['no_sales', 'slow_mover', 'moderate', 'popular', 'best_seller']
 
   - name: agg_monthly_revenue
     description: Monthly revenue aggregation by country and customer segment
