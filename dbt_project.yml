@@ -20,7 +20,7 @@ models:
   dbt_test_1:
     silver:
       +schema: silver
-      +materialized: view
+      +materialized: table
     gold:
       +schema: gold
       +materialized: table
