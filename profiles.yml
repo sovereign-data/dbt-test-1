@@ -3,10 +3,11 @@ trino:
   outputs:
     dev:
       type: trino
-      method: none
+      method: ldap
       host: localhost
       port: 8080
-      user: trino
-      database: memory
+      user: "{{ env_var('TRINO_USER') }}"
+      password: "{{ env_var('TRINO_PASSWORD') }}"
+      database: main_warehouse
       schema: dev
       threads: 4
