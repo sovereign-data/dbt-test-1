@@ -4,8 +4,9 @@ trino:
     dev:
       type: trino
       method: ldap
-      host: localhost
-      port: 8080
+      host: chameleon.local
+      port: 443
+      http_scheme: https
       user: "{{ env_var('TRINO_USER') }}"
       password: "{{ env_var('TRINO_PASSWORD') }}"
       database: main_warehouse
